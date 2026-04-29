@@ -369,27 +369,6 @@
     "op": "add",
     "path": "/treegens/-",
     "value": {
-      "Generator": "bdtree:thinbirch",
-      "Weight": 2,
-      "MinTemp": 0,
-      "MaxTemp": 18,
-      "MinRain": 150,
-      "MaxRain": 255,
-      "MinFert": 100,
-      "MaxFert": 255,
-      "MinForest": 0,
-      "MaxForest": 255,
-      "MinHeight": 0.0,
-      "MaxHeight": 0.4
-    },
-    "file": "game:worldgen/treengenproperties.json",
-    "side": "server"
-  },
-  {
-    "enabled": false,
-    "op": "add",
-    "path": "/treegens/-",
-    "value": {
       "Generator": "bdtree:brideinwhite",
       "Weight": 2,
       "MinTemp": -4,
@@ -402,29 +381,6 @@
       "MaxForest": 255,
       "MinHeight": 0.0,
       "MaxHeight": 0.4
-    },
-    "file": "game:worldgen/treengenproperties.json",
-    "side": "server"
-  },
-  {
-    "enabled": false,
-    "op": "add",
-    "path": "/treegens/-",
-    "value": {
-      "Generator": "bdtree:thinlarch",
-      "Weight": 20,
-      "MinSize": 0.8,
-      "MaxSize": 1,
-      "MinTemp": -24,
-      "MaxTemp": -6,
-      "MinRain": 90,
-      "MaxRain": 255,
-      "MinFert": 30,
-      "MaxFert": 255,
-      "MinForest": 80,
-      "MaxForest": 255,
-      "MinHeight": 0.0,
-      "MaxHeight": 0.5
     },
     "file": "game:worldgen/treengenproperties.json",
     "side": "server"
@@ -469,27 +425,6 @@
       "MaxForest": 170,
       "MinHeight": 0.0,
       "MaxHeight": 0.4
-    },
-    "file": "game:worldgen/treengenproperties.json",
-    "side": "server"
-  },
-  {
-    "enabled": false,
-    "op": "add",
-    "path": "/treegens/-",
-    "value": {
-      "Generator": "bdtree:thinwillow",
-      "Weight": 2,
-      "MinTemp": -4,
-      "MaxTemp": 14,
-      "MinRain": 140,
-      "MaxRain": 255,
-      "MinFert": 30,
-      "MaxFert": 255,
-      "MinForest": 60,
-      "MaxForest": 180,
-      "MinHeight": 0.0,
-      "MaxHeight": 0.45
     },
     "file": "game:worldgen/treengenproperties.json",
     "side": "server"
@@ -563,29 +498,6 @@
       "Generator": "bdtree:bearnut",
       "Weight": 8,
       "SuitabilitySizeBonus": 0.5,
-      "MinTemp": 5,
-      "MaxTemp": 20,
-      "MinRain": 110,
-      "MaxRain": 165,
-      "MinFert": 90,
-      "MaxFert": 255,
-      "MinForest": 100,
-      "MaxForest": 190,
-      "MinHeight": 0,
-      "MaxHeight": 0.6
-    },
-    "file": "game:worldgen/treengenproperties.json",
-    "side": "server"
-  },
-  {
-    "enabled": false,
-    "op": "add",
-    "path": "/treegens/-",
-    "value": {
-      "Generator": "bdtree:thinbearnut",
-      "Weight": 12,
-      "MinSize": 0.6,
-      "MaxSize": 0.9,
       "MinTemp": 5,
       "MaxTemp": 20,
       "MinRain": 110,
@@ -744,29 +656,6 @@
       "MinForest": 120,
       "MaxForest": 200,
       "MinHeight": 0.1,
-      "MaxHeight": 0.6
-    },
-    "file": "game:worldgen/treengenproperties.json",
-    "side": "server"
-  },
-  {
-    "enabled": false,
-    "op": "add",
-    "path": "/treegens/-",
-    "value": {
-      "Generator": "bdtree:thinmahoe",
-      "Weight": 1,
-      "MinSize": 0.8,
-      "MaxSize": 1.1,
-      "MinTemp": 23,
-      "MaxTemp": 30,
-      "MinRain": 170,
-      "MaxRain": 220,
-      "MinFert": 160,
-      "MaxFert": 255,
-      "MinForest": 120,
-      "MaxForest": 200,
-      "MinHeight": 0,
       "MaxHeight": 0.6
     },
     "file": "game:worldgen/treengenproperties.json",
@@ -1215,28 +1104,6 @@
       "MaxFert": 200,
       "MinForest": 50,
       "MaxForest": 210,
-      "MinHeight": 0,
-      "MaxHeight": 0.8
-    },
-    "file": "game:worldgen/treengenproperties.json",
-    "side": "server"
-  },
-  {
-    "enabled": false,
-    "op": "add",
-    "path": "/treegens/-",
-    "value": {
-      "Generator": "bdtree:thinleadwood",
-      "Weight": 0.8,
-      "SuitabilitySizeBonus": 0.8,
-      "MinTemp": 27,
-      "MaxTemp": 40,
-      "MinRain": 80,
-      "MaxRain": 140,
-      "MinFert": 50,
-      "MaxFert": 200,
-      "MinForest": 50,
-      "MaxForest": 220,
       "MinHeight": 0,
       "MaxHeight": 0.8
     },

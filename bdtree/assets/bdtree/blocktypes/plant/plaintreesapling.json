@@ -8,7 +8,7 @@
 	],
 	skipVariants: [ "*-chlorociboria-*", "*-charred-*" ],
 	shapeByType: {
-		"*": { base: "block/plant/sapling/plaintree/{wood}" },
+		"*": { base: "block/plant/sapling/plaintree/{wood}" }
 	},
 	textures: {
 		"fertlow": { base: "game:block/soil/fertlow" }
