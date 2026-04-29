@@ -18,10 +18,10 @@
 		}
 	],
 	"sounds": {
-		"place": "block/planks",
-		"hit": "block/planks",
-		"break": "block/planks",
-		"walk": "walk/wood"
+		"place": "game:block/planks",
+		"hit": "game:block/planks",
+		"break": "game:block/planks",
+		"walk": "game:walk/wood"
 	},
 	"creativeinventory": {
 		"general": [ "roughhewnfence-*-ew-free" ],
