@@ -1,6 +1,7 @@
 {
 	"inheritFrom": "game:itemtypes/resource/plank",
 	"code": "plank",
+	"tags": [ "resource-plank" ],
 	"behaviors": [
 		{
 			"name": "GroundStorable",
@@ -32,11 +33,11 @@
 	"variantgroups": [
 		{
 			"code": "wood",
-			"states": [ ],
+			"states": [],
 			"loadFromProperties": "bdtree:block/wood"
 		}
 	],
-	
+
 	"shape": { "base": "game:item/plank" },
 	"textures": {
 		"wood": {
