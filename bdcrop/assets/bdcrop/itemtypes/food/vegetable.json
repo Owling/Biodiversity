@@ -28,6 +28,9 @@
     "handbook": {
       "groupBy": [ "vegetable-*" ]
     },
+    "inContainerTextureByType": {
+      "*": { "base": "bdcrop:block/food/pie/fill-{type}" }
+    },
     "inTrapTransformByType": {
       "*": {
         "translation": {
@@ -58,7 +61,6 @@
           "z": -90
         }
       },
-      "inContanierTexture": { "base": "bdcrop:block/food/pie/fill-leek" },
       "nutritionPropsWhenInMeal": {
         "satiety": 150,
         "foodcategory": "vegetable"
@@ -80,7 +82,6 @@
     },
     "*-tomato": {
       "foodTags": [ "{type}" ],
-      "inContanierTexture": { "base": "bdcrop:block/food/pie/fill-naplessquash" },
       "nutritionPropsWhenInMeal": {
         "satiety": 150,
         "foodcategory": "vegetable"
@@ -97,7 +98,6 @@
     },
     "*-naplessquash": {
       "foodTags": [ "{type}", "tastyvegetable" ],
-      "inContanierTexture": { "base": "bdcrop:block/food/pie/fill-naplessquash" },
       "nutritionPropsWhenInMeal": {
         "satiety": 180,
         "foodcategory": "vegetable"
@@ -119,7 +119,6 @@
     },
     "*-butternutsquash": {
       "foodTags": [ "{type}", "tastyvegetable" ],
-      "inContanierTexture": { "base": "bdcrop:block/food/pie/fill-butternutsquash" },
       "nutritionPropsWhenInMeal": {
         "satiety": 180,
         "foodcategory": "vegetable"
